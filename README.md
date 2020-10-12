@@ -1,7 +1,7 @@
 # consuming_api_with_vue
 
 ## What is this?
-This project was created during my class about how to consum REST API in using Vue.js (frontend).
+This project was created during my class about how to consume REST API in using Vue.js (frontend).
 
 ## Introduction 
 This project is a sample created to memorize topics from a great online course I attended. It was an interesting sample that I would like to share.
@@ -21,14 +21,13 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm: <br>
 $ npm install @vue/cli --g <br>
-$ npm install sequelize --save <br>
-$ npm install mysql2 --save <br>
-$ npm install body-parser --save <br>
+$ npm install bulma --save <br>
+$ npm install axios --save <br>
 
-After install @vue/cli, I use this command to setup your project (from the directory that you want to create you project): <br>
+After install @vue/cli, I used the follow command to setup my project (from the directory that you want to create you project): <br>
 $ vue create consuming_api_with_vue
 
-After that, use this command to start your server (from project directory that was created - in this case, consuming_api_with_vue): <br>
+After that, I used the follow command to start my server (from project directory that was created - in this case, consuming_api_with_vue): <br>
 $ npm run serve <br>
 
 ## Result
