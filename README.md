@@ -32,6 +32,8 @@ After that, use this command to start your server (from project directory that w
 $ npm run serve <br>
 
 ## Result
+<img src="https://github.com/christianosa/consuming_api_with_vue/blob/master/screenshot.png">
+
 <pre >
  DONE  Compiled successfully in 4012ms                                                                          
   App running at:
@@ -41,5 +43,3 @@ $ npm run serve <br>
   Note that the development build is not optimized.
   To create a production build, run npm run build.
 <pre>
-
-![alt text](http:/https://github.com/christianosa/consuming_api_with_vue/screenshot.png)
