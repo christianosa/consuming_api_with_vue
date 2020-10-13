@@ -41,6 +41,7 @@ $ npm run serve <br>
   To create a production build, run npm run build.
 </pre>
 
-<a href="http://vue-sample-chsa-com.umbler.net/" target="_blank">sample ...</a> <br>
+[go](http://vue-sample-chsa-com.umbler.net){:target="_blank"} <br>
+
 <img src="https://github.com/christianosa/consuming_api_with_vue/blob/master/screenshot.png" width="500px" height="616px">
 
