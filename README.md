@@ -40,5 +40,6 @@ $ npm run serve <br>
   Note that the development build is not optimized.
   To create a production build, run npm run build.
 </pre>
-<a href="http://vue-sample-chsa-com.umbler.net/">sample published</a>
+
+<a href="http://vue-sample-chsa-com.umbler.net/">sample published</a> <br>
 <img src="https://github.com/christianosa/consuming_api_with_vue/blob/master/screenshot.png" width="500px" height="616px">
